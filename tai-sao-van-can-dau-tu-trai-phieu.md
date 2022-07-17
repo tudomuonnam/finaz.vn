@@ -11,4 +11,22 @@ Trái phiếu là tài sản nợ. Hiểu đơn giản là, bạn cho chủ nợ
 Ví dụ ngày 01/07/2022, bạn mua 100 triệu trái phiếu của công ty A, họ trả coupon 10% hàng năm trong thời gian 3 năm. Nghĩa là, bạn sẽ nhận được 10 triệu/năm trong 3 năm tới vào các ngày 01/07/2021,01/07/2022 và 01/07/2023. Vì trái phiếu đáo hạn 3 năm, ngày 01/07/2023 bạn cũng nhận lại phần gốc (100 triệu).
 
 Trái phiếu là khoản đầu tư khá đơn giản, có thu nhập cố định tương tự như việc gửi tiền tiết kiệm ngân hàng. Nhiều người nghĩ đây là khoản đầu tư nhàm chán, không hấp dẫn và mang lại lợi nhuận thấp hơn cổ phiếu. Thực tế thường không như vậy, cổ phiếu có tính dao động rất lớn, đòi hỏi nhiều kiến thức, thời gian và kỉ luật để có thể mang lại lợi nhuận ổn định. Thực tế cho thấy, nhiều nhà đầu tư cá nhân lỗ hơn là lời ngay cả khi thị trường cổ phiếu tăng điểm.
-  
+
+Việc đầu tư trái phiếu đơn giản là mua và nắm giữ, nhận lãi định kì. Không cần quan tâm gì thêm.
+2. Tại sao đầu tư trái phiếu là quan trọng
+Để hiểu được việc này, ta thường phải nhìn sâu hơn vào danh mục quản lý tài sản và khung thời gian quản lý.
+Thông thường, nhà đầu tư cá nhân và hộ gia đình nắm giữ các lớp tài sản khác nhau như:
+- Tiền (và các khoản tương đương tiền: ngoại tệ, khoản tiền thanh toán trong tài khoản ngân hàng....)
+- Kim loại quý: Vàng, Bạc
+- Gửi tiết kiệm
+- Trái phiếu
+- Cổ phiếu
+- Bất động sản 
+- Khác: tiền kĩ thuật số ...
+Mỗi lớp tài sản có những đặc tính riêng như khả năng sinh lời, rủi ro, tính thanh khoản ... khác nhau.
+Ví dụ: Bất động sản thường được cho là mang lại lợi nhuận tốt với rủi ro thấp tuy nhiên tính thanh khoản lại thấp, một giao dịch mua bán bất động sản có thể kéo dài hàng tháng hoặc năm. Mặt khác, bất động sản thường có giá trị cao, không phải ai cũng có thể mua được
+Cổ phiếu thường được cho là mang lại lợi nhuận cao và có tính thanh khoản tốt, tuy nhiên cổ phiếu cũng có tính chu kì lớn, có thể mang lại rủi ro cao nếu nắm giữ trong thời gian ngắn.
+
+Vì vậy, nếu khả năng tài chính cho phép, nhà đầu tư nên có sự kết hợp giữa các loại tài sản khác nhau nhằm đạt được mục tiêu của bản thân và gia đình. 
+
+Trái phiếu nằm ở đâu trong rổ tài sản này?
