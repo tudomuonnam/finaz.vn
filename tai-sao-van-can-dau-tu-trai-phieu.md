@@ -27,6 +27,9 @@ Mỗi lớp tài sản có những đặc tính riêng như khả năng sinh l�
 Ví dụ: Bất động sản thường được cho là mang lại lợi nhuận tốt với rủi ro thấp tuy nhiên tính thanh khoản lại thấp, một giao dịch mua bán bất động sản có thể kéo dài hàng tháng hoặc năm. Mặt khác, bất động sản thường có giá trị cao, không phải ai cũng có thể mua được
 Cổ phiếu thường được cho là mang lại lợi nhuận cao và có tính thanh khoản tốt, tuy nhiên cổ phiếu cũng có tính chu kì lớn, có thể mang lại rủi ro cao nếu nắm giữ trong thời gian ngắn.
 
-Vì vậy, nếu khả năng tài chính cho phép, nhà đầu tư nên có sự kết hợp giữa các loại tài sản khác nhau nhằm đạt được mục tiêu của bản thân và gia đình. 
+Vì vậy, nếu khả năng tài chính cho phép, nhà đầu tư nên có sự kết hợp giữa các loại tài sản khác nhau nhằm đạt được mục tiêu của bản thân và gia đình. Đây là tính năng đa dạng hóa tài sản dành cho nhà đầu tư
+Thứ 2, Trái phiếu là tài sản mang lại nguồn thu nhâp cố định. 
 
 Trái phiếu nằm ở đâu trong rổ tài sản này?
+
+Thật khó để có công thức chung cho tất cả mọi người. 
