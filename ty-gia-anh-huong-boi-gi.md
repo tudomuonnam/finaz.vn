@@ -53,22 +53,31 @@ Ngược lại với mục a, tăng lãi suất ngoại tệ khiến nhu cầu m
 
 Ngang bằng lãi suất giả sử rằng dòng vốn giữa hai quốc gia A, B được di chuyển tự do và không tốn chi phí chuyển đổi. 
 
-Gọi A, B là hai quốc gia 
-St là tỷ giá tại thời điểm t của A/B
-St+1 là tỷ giá tại thời điểm t+1 của A/B
+<p align="center">
+<img src="ngang-bang-lai-suat.jpg" alt="Ngang banng lai suat" style="width:50%; border:0;">
+</p>
+
+Gọi A, B là rổ tài sản của hai quốc gia khác nhau 
+
+S_t là tỷ giá tại thời điểm t của A/B
+
+S_{t+1} là tỷ giá tại thời điểm t+1 của tài sản A, B
+
 ia, ib là lãi suất tại quốc gia A,B
 
 Tại thời điểm t
-St = {A/B}  (1)
+$ S_t = {A\over B}  $  (1)
 
 Tại thời điểm t + 1.
-Giá trị tài sản A là A(1 + ia), của B là B(1 + ib)
+Giá trị tài sản A là $ A(1 + ia)$ ,của B là $B(1 + ib)$
+
 Tỷ giá tại t+1
-St+1 = {A(1+ia)/B(1+ib}  (2)
+
+$S_{t+1} = {A(1+ia) \over B(1+ib)} $ (2)
 
 Chia công thức (1) cho (2) và biến đổi ta có
 
-St+1 = St({(1+ia)/(1+ib)})
+$S_{t+1} = S_t({(1+ia) \over (1+ib)}) $
 
 Nghĩa là: Tỷ giá (giữa A/B) tại thời điểm t+1 tăng khi lãi suất của a tăng và giảm khi lãi suất của B giảm
 
