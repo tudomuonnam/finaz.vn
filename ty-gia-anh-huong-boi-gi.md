@@ -1,4 +1,4 @@
-Điều gì ảnh hưởng đến tỷ giá?
+# Các yếu tố nào ảnh hưởng đến tỷ giá?
 > Vấn đề tỷ giá đang rất nóng gần đây, rất nhiều bài viết trên các trang mạng xã hội với nhiều kiến thức kì lạ và thuyết âm mưu với mục tiêu chủ yếu là để "bán hàng". Tỷ giá tăng đấy, mua bất động sản đi, mua chứng khoán ngành A,B,C đi, mua vàng đi ...
 > Bài viết này, với kiến thức được lấy từ sách giáo khoa sẽ cho bạn một góc nhìn ít thiên lệch nhất về vấn đề tỷ giá. Nội dung chủ yếu là từ sách "Kinh tế học về tiền, ngân hàng và thị trường tài chính" sách đã được dịch và bán tại Việt Nam.
 
